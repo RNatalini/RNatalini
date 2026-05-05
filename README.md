@@ -4,7 +4,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Data Entry Freelancer** at [Workana](https://www.workana.com/)
+- 🏢 I am currently working as a **Data Entry - Data Analytics Freelancer** at [Workana](https://www.workana.com/)
 - 🏢 Former **Maintenance Engineer** at [Air Liquide](https://ar.airliquide.com/)
 - 🎓 Studies for Chemical Engineering at [Universidad Tecnologica Nacional - Buenos Aires](https://frba.utn.edu.ar/)
 - 🎓 Studies for Data Analytics and Business Intelligence at [Gobierno de la Ciudad de Buenos Aires - Talento Tech](https://talentotech.bue.edu.ar/home)
